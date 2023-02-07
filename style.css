@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    position: relative;
+    width: 100%;
+    height: 100px;
+    top: 0;
+    background-color: #000;
+    color: #fff;
+}
+
+.main {
+    position: relative;
+    height: 1920px;
+}
+
+.footer {
+    position: relative;
+    width: 100%;
+    height: 100px;
+    bottom: 0;
+    background-color: #000;
+    color: #fff;
+}
